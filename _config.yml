@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: CULRRY # the main title
 
-tagline: Become Game Server Programmer # it will display as the sub-title
+tagline: 게임 서버 개발자가 되기위한 흔적 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   게임 서버 개발자 지망생의 글들
@@ -41,7 +41,7 @@ social:
   email: culrry99@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/CULRRY # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -76,7 +76,7 @@ theme_mode: dark # [light|dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://avatars.githubusercontent.com/u/39365034?v=4"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -112,7 +112,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 5
+paginate: 6
 
 # ------------ The following options are not recommended to be modified ------------------
 
